@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1632
     wikipedia: http://en.wikipedia.org/wiki/Clarence_Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28442#Ned-Bob-and-Jerry-on-the-Firing-Line--Or-The-Motor-Boys-Fighting-for-Uncle-Sam
 gutenberg_issued: '2009-03-29'
 gutenberg_type: Text
 identifiers:
